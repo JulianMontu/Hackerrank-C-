@@ -1,0 +1,15 @@
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\bin\Debug\net6.0\ejercicioexplicacion.exe
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\bin\Debug\net6.0\ejercicioexplicacion.deps.json
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\bin\Debug\net6.0\ejercicioexplicacion.runtimeconfig.json
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\bin\Debug\net6.0\ejercicioexplicacion.dll
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\bin\Debug\net6.0\ejercicioexplicacion.pdb
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\obj\Debug\net6.0\ejercicioexplicacion.csproj.AssemblyReference.cache
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\obj\Debug\net6.0\ejercicioexplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\obj\Debug\net6.0\ejercicioexplicacion.AssemblyInfoInputs.cache
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\obj\Debug\net6.0\ejercicioexplicacion.AssemblyInfo.cs
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\obj\Debug\net6.0\ejercicioexplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\obj\Debug\net6.0\ejercicioexplicacion.dll
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\obj\Debug\net6.0\refint\ejercicioexplicacion.dll
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\obj\Debug\net6.0\ejercicioexplicacion.pdb
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\obj\Debug\net6.0\ejercicioexplicacion.genruntimeconfig.cache
+C:\Users\Julian\Desktop\EjemploAplicaciones\ejercicioexplicacion\ejercicioexplicacion\obj\Debug\net6.0\ref\ejercicioexplicacion.dll
